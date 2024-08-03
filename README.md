@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, 👋 Its Your Boy Atiqul Islam Akash (AKA Slinder) Here!</h1>
+<h3 align="center">A Dumb developer from Bangladesh</h3>
 
-<!--
-**Atiqul-Akash/Atiqul-Akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Atiqul-Akash&label=Profile%20views&color=0e75b6&style=flat" alt="Atiqul-Akash" /> </p>
 
-Here are some ideas to get you started:
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Atiqul-Akash&&&show_icons=true&theme=tokyonight">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on a [AI Chat Bot](https://github.com/Atiqul-Akash/Amar-CosmosRP)
+
+- 💬 Ask me about **how to be a dumb development, Discord Bot development and AI development**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/fEe8SbwPxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bDz2Ye5pbM" height="30" width="40" /></a>
+</p>
+<img align="left" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atiqul-Akash&theme=blue-green&count_private=true"><br>
