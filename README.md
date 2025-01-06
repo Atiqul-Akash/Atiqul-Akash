@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a [AI Chat Bot](https://github.com/Atiqul-Akash/Amar-CosmosRP)
 
-- 💬 Ask me about **how to be a dumb development, Discord Bot development and AI development**
+- 💬 Ask me about **how to be a dumb developer, Discord Bot development and AI development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
