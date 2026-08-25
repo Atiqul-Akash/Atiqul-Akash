@@ -7,8 +7,6 @@
 
 
 
-- 🔭 I’m currently working on a [AmarBot](https://github.com/Atiqul-Akash/amarbot.py)
-
 - 💬 Ask me about **how to be a dumb developer, Discord Bot development and AI development**
 
 <h3 align="left">Connect with me:</h3>
