@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Atiqul-Akash&label=Profile%20views&color=0e75b6&style=flat" alt="Atiqul-Akash" /> </p>
 
-<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Atiqul-Akash&&&show_icons=true&theme=tokyonight">
 
 
 
