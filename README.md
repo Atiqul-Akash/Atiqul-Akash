@@ -16,7 +16,7 @@
 I am a Bachelor of Business Administration (BBA) student at the **European University of Bangladesh**, bridging the gap between practical business workflows and software development. I build lightweight Python automation tools, Discord bots, and analytical scripts to solve real-world operational problems.
 
 * 🎓 **Academics:** Studying Business Administration with an emphasis on operational efficiency and analytical modeling.
-* ⚙️ **Tech Focus:** Scripting in Python, building custom Discord bots, and deploying agentic workflows.
+* ⚙️ **Tech Focus:** Scripting in Python, building custom Discord bots, and deploying automation pipelines.
 * ✍️ **Creative Pursuits:** Technical & creative writing, digital strategy, and simulation gaming.
 * 💬 **Ask Me About:** Python task automation, Discord bot architecture, and merging business logic with code.
 
@@ -36,11 +36,15 @@ I am a Bachelor of Business Administration (BBA) student at the **European Unive
 
 ---
 
-### 📊 GitHub Metrics
+### 📊 GitHub Activity & Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atiqul-Akash&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Atiqul-Akash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Atiqul-Akash&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atiqul-Akash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atiqul-Akash&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
 </p>
 
 ---
