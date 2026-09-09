@@ -36,16 +36,25 @@ I am a Bachelor of Business Administration (BBA) student at the **European Unive
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 GitHub Overview & Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Atiqul-Akash&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Atiqul-Akash&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-</p>
+<div align="center">
+  <a href="https://github.com/Atiqul-Akash">
+    <img src="https://img.shields.io/github/followers/Atiqul-Akash?label=Followers&style=for-the-badge&logo=github&color=21262d&labelColor=161b22" alt="Followers" />
+  </a>
+  <a href="https://github.com/Atiqul-Akash">
+    <img src="https://img.shields.io/github/stars/Atiqul-Akash?label=Total%20Stars&style=for-the-badge&logo=reverbnation&logoColor=yellow&color=21262d&labelColor=161b22" alt="Stars" />
+  </a>
+  <a href="https://github.com/Atiqul-Akash">
+    <img src="https://img.shields.io/github/directory-file-count/Atiqul-Akash/Atiqul-Akash?type=dir&label=Status&style=for-the-badge&color=238636&labelColor=161b22" alt="Status" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atiqul-Akash&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/216e39/Atiqul-Akash" alt="Atiqul-Akash's Github Contribution Chart" width="100%" />
+</div>
 
 ---
 
